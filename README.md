@@ -1,5 +1,5 @@
 # Projeto PokeDex
 
-A ideia deste projeto foi desenvolver um site utilizando HTML5, CSS e JavaScript, permitindo que o usuário pesquise por um Pokémon específico e visualize algumas de suas informações.
+A ideia deste projeto foi desenvolver um site utilizando **HTML5, CSS e JavaScript**, onde o usuário pode pesquisar por um determinado Pokémon e visualizar algumas de suas informações.
 
-O projeto utiliza uma API para buscar e retornar os dados do Pokémon pesquisado.
+O projeto foi desenvolvido em conjunto com um colega de sala, ficando responsável pelo desenvolvimento do **CSS e da estilização da página**, enquanto eu fiquei responsável pela parte de **HTML e JavaScript**, incluindo a lógica de pesquisa e consulta das informações dos Pokémon.
